@@ -11,7 +11,7 @@ console.log(__filename);
 
 // 👇️ "/home/borislav/Desktop/javascript"
 const __dirname = path.resolve();
-
+chuj ci na kurwe
 export default [
 	{
 		ignores: ["**/*.js", "**/*.cjs", "**/*.mjs"],
